@@ -1,0 +1,15 @@
+set osd_warn_link_quality = ON
+set osd_tim1 = 1283
+set osd_vbat_pos = 2613
+set osd_link_quality_pos = 2460
+set osd_tim_1_pos = 2620
+set osd_throttle_pos = 2598
+set osd_gps_sats_pos = 2101
+set osd_home_dir_pos = 14394
+set osd_home_dist_pos = 14396
+set osd_altitude_pos = 2604
+set osd_warnings_pos = 14645
+set osd_avg_cell_voltage_pos = 2452
+set osd_disarmed_pos = 2327
+set vcd_video_system = 
+###ERROR IN diff: CORRUPTED CONFIG: vcd_video_system = 3###
