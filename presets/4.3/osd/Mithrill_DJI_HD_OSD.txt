@@ -3,8 +3,8 @@
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, OSD
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets the OSD values back to Betaflight 4.3 defaults
+#$ AUTHOR: Mithrill
+#$ DESCRIPTION: Resets the OSD values back to Mithrill defaults
 
 set osd_warn_link_quality = ON
 set osd_tim1 = 1283
