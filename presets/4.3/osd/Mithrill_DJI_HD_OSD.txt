@@ -1,4 +1,4 @@
-#$ TITLE: Default 4.3 OSD settings
+#$ TITLE: Default 4.3 DJI HD OSD settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
